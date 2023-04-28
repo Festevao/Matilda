@@ -1,0 +1,13 @@
+{
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "deleteOutDir": true,
+    "assets": [
+      {
+        "include": "templates/**/*",
+        "watchAssets": true
+      }
+    ],
+    "watchAssets": true
+  }
+}

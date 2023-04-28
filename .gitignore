@@ -1,0 +1,5 @@
+
+.env
+dist/module.app/session/*
+node_modules/*
+dist/*
